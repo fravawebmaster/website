@@ -1,5 +1,5 @@
 <?php
-namespace website;
+namespace fravawebmaster\website;
 
 /**
  * ROUTER
