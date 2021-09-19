@@ -1,0 +1,19 @@
+{
+    "name": "fravawebmaster/website",
+    "description": "Ultra light and fast web framwork.",
+    "version": "1.0",
+    "type": "library",
+    "homepage": "https://fravawebmaster.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Francisco Valenzuela",
+            "email": "info@fravawebmaster.com",
+            "homepage": "https://fravawebmaster.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.3"
+    }
+}
